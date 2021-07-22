@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hello, I am power full group manager bot
-` And visit my [support chat](t.me/TgBotsChat)` /help
+And visit my [support chat](t.me/TgBotsChat) /help
 Update channel:- @Royalbotz 
 """
 
